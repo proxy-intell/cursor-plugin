@@ -1,0 +1,26 @@
+{
+  "name": "proxy",
+  "displayName": "Proxy",
+  "version": "1.0.0",
+  "description": "Search every ad library from your AI. Meta, Google, LinkedIn and TikTok ads, competitor discovery, creative analysis. Free, no API keys.",
+  "author": {
+    "name": "Proxy",
+    "email": "support@useproxy.dev"
+  },
+  "homepage": "https://useproxy.dev",
+  "repository": "https://github.com/proxy-intell/cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "ads",
+    "ad-library",
+    "meta-ads",
+    "facebook-ads",
+    "google-ads",
+    "linkedin-ads",
+    "tiktok-ads",
+    "competitor-research",
+    "marketing",
+    "mcp"
+  ],
+  "logo": "assets/logo.svg"
+}

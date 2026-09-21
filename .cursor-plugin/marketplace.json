@@ -1,0 +1,18 @@
+{
+  "name": "proxy",
+  "owner": {
+    "name": "Proxy",
+    "email": "support@useproxy.dev"
+  },
+  "metadata": {
+    "description": "Official Proxy plugin for Cursor and Grok Bot: real-time Meta, Google, LinkedIn and TikTok ad library access via MCP, plus an ad-research skill.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "proxy",
+      "source": "./plugins/proxy",
+      "description": "Search every ad library from your AI. Meta, Google, LinkedIn and TikTok ads, competitor discovery, creative analysis. Free, no API keys."
+    }
+  ]
+}

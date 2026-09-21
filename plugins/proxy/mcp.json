@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "proxy": {
+      "url": "https://mcp.useproxy.dev/mcp"
+    }
+  }
+}
