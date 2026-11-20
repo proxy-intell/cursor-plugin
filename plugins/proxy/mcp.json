@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "proxy": {
-      "url": "https://mcp.useproxy.dev/mcp"
+      "url": "https://mcp.useproxy.dev/mcp?ref=cursor-plugin"
     }
   }
 }

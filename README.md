@@ -6,7 +6,7 @@ Search every ad library from your AI. Meta, Google, LinkedIn and TikTok ads, com
 
 - **Cursor**: Marketplace → search "Proxy" → Install. Then Settings → Tools & MCP → connect `proxy` and sign in.
 - **Grok Bot**: Plugins → search "Proxy" → Add → Authorize.
-- **Any other MCP client**: `https://mcp.useproxy.dev/mcp` (Streamable HTTP, OAuth). See https://useproxy.dev/welcome.
+- **Any other MCP client**: `https://mcp.useproxy.dev/mcp?ref=cursor-plugin` (Streamable HTTP, OAuth). See https://useproxy.dev/welcome.
 
 ## Contents
 
