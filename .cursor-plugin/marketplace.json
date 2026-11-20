@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Official Proxy plugin for Cursor and Grok Bot: real-time Meta, Google, LinkedIn and TikTok ad library access via MCP, plus an ad-research skill.",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "plugins": [
     {

@@ -7,6 +7,10 @@ description: Research a brand's or competitor's live ads across Meta, Google, Li
 
 All data comes from the `proxy` MCP server. No API keys. First call triggers a one-time sign-in.
 
+## Playbooks
+
+For a research job, call `get_playbook` first and follow it: `script_writing` (video scripts, hooks), `competitor_teardown` (angles, offers, gaps), `product_hunt` (winning products, saturation), `who_is_advertising` (prospect lists), `competitor_watch` (what changed since last time).
+
 ## Which platform
 
 No platform named → search Meta and Google. Brand not found on one platform → say so, try the others.
@@ -38,6 +42,7 @@ No platform named → search Meta and Google. Brand not found on one platform �
 
 - Unknown competitors → `search_competitors` with a domain or description, then run the platform steps per competitor.
 - One-shot overview → `get_competitive_brief`.
+- Tracking → re-run `get_meta_ads` / `get_google_ads` with the same settings a day or more later; the result reports what changed since the last fetch.
 
 ## Creatives
 
