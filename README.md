@@ -20,3 +20,7 @@ Search every ad library from your AI. Meta, Google, LinkedIn and TikTok ads, com
 - Issues: https://github.com/proxy-intell/cursor-plugin/issues
 
 MIT.
+
+## For AI agents
+
+Hosted MCP server: `https://mcp.useproxy.dev/mcp?ref=cursor-plugin` (streamable HTTP, OAuth on first connect, no API key). Manifest: [`server.json`](server.json). Setup for every client: https://useproxy.dev/llms.txt
