@@ -38,6 +38,14 @@ No platform named → search Meta and Google. Brand not found on one platform �
 1. `search_tiktok_ads` with the registered advertiser name. Exact and case-sensitive ("Anysphere", not "Cursor").
 2. `get_tiktok_ad_details` with a result `id`.
 
+## Organic videos (TikTok, Instagram)
+
+References for ad creative: trending hooks and formats to bring into paid. Use alongside ads, not instead.
+
+1. `search_organic_videos` with a keyword or `#hashtag`. Search "brand + category word", never a bare brand name ("notion" returns a song).
+2. `get_creator_videos` with a handle for a brand's or creator's own feed and its median plays.
+3. Show picks with `show_ad_carousel`, each as a `post_url` ref; `analyze_ad_video` takes the same `post_url` for a transcript.
+
 ## Competitors and briefs
 
 - Unknown competitors → `search_competitors` with a domain or description, then run the platform steps per competitor.
